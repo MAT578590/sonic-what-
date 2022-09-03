@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pc.png">
+	
+	
+	<SubTexture name="compu epico gamer instance 10000" x="5" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10001" x="5" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10002" x="5" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10003" x="5" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10004" x="5" y="1171" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10005" x="5" y="1462" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10006" x="417" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10007" x="417" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10008" x="417" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10009" x="417" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10010" x="417" y="1171" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10011" x="417" y="1462" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10012" x="829" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10013" x="829" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10014" x="829" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10015" x="829" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10016" x="829" y="1171" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10017" x="829" y="1462" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10018" x="1241" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10019" x="1241" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10020" x="1241" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10021" x="1241" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10022" x="1241" y="1171" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10023" x="1241" y="1462" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10024" x="1653" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10025" x="1653" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10026" x="1653" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10027" x="1653" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10028" x="1653" y="1171" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10029" x="1653" y="1462" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10030" x="2065" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10031" x="2477" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10032" x="2889" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10033" x="3301" y="5" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10034" x="2065" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10035" x="2065" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10036" x="2065" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10037" x="2065" y="1171" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10038" x="2065" y="1462" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10039" x="2477" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10040" x="2889" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10041" x="3301" y="296" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10042" x="2477" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10043" x="2889" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10044" x="3301" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10045" x="3301" y="588" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10046" x="2477" y="879" width="407" height="286" />
+	<SubTexture name="compu epico gamer instance 10047" x="2477" y="879" width="407" height="286" />
+</TextureAtlas>
