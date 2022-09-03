@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonicidle"
+		},
+		{
+			"offsets": [
+				95,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonicleft0"
+		},
+		{
+			"offsets": [
+				12,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonicdown0"
+		},
+		{
+			"offsets": [
+				-45,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonicup0"
+		},
+		{
+			"offsets": [
+				-72,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonicright0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "sonicleftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-60
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "sonicdownmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				64
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "sonicupmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				-26
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "sonicrightmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pajeroSidee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pajero",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		49,
+		126
+	],
+	"camera_position": [
+		350,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
